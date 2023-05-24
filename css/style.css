@@ -1,0 +1,13 @@
+body {
+  background-color: #000;
+  color: white;
+  padding: 0px;
+  margin: 0px;
+  font-family: helvetica, "times new roman"
+}
+
+p {
+  color:red;
+  font-family: monospace;
+  font-size: 20px
+}
