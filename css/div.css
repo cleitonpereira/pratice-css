@@ -1,0 +1,55 @@
+body{
+  padding: 0;
+  margin: 0;
+  background-color: #999;
+  font-family: helvetica, ariald;
+}
+
+header{
+  background-color: #661111;
+  height: 150px;
+  padding-top: 35px;
+}
+
+header img{
+  width: 100px;
+  height: 100px;
+  background-color: #661111;
+}
+
+article{
+  padding-top: 60px;
+  background-color:#222;
+  background-size: 100%;
+  color:#eee;
+  min-height: 600px;
+  background-image: url(../assets/daje.jpg);
+  text-align: center;
+}
+
+article h1{
+  margin: 0;
+}
+/* section{
+  background-color:#555;
+  color: #ddd;
+  height: 600px;
+} */
+
+footer{
+  clear: both;
+  background-color:#fff414;
+  color: #222 ;
+  height: 100px;
+}
+
+
+/* img{
+  width: 100px;
+  height: 100px;
+} */
+
+.container{
+  width: 1200px;
+  margin: 0 auto;
+}
